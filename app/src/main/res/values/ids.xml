@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnLoadImage" type="id" />
+    <item name="btnCaptureImage" type="id" />
+    <item name="tvOutput" type="id" />
+    <item name="tvDescription" type="id" />
+</resources>
